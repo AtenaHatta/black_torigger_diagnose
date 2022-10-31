@@ -256,7 +256,7 @@ Responsive
    
   @media screen and (min-width:1024px) {
 		.subtitle{
-			font-size: 0.8rem;
+			font-size: 1.2rem;
 		}
 
 		.title_img{
@@ -271,11 +271,11 @@ Responsive
 			width: 50%;
 			position: relative;
 			left: 25%;
-			font-size: 0.7rem;
+			font-size: 1rem;
 		}
 
 		.start_button{
-			font-size: 0.8rem;
+			font-size: 1rem;
 		} 
   }
 
