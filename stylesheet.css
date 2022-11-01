@@ -209,8 +209,7 @@ Responsive
 		font-size: 0.9rem;
 		position: relative;
 		left: 10%;
-	}
-}
+  }
 
 @media screen and (min-width: 768px) {
 	.subtitle{
@@ -231,6 +230,9 @@ Responsive
 		left: 16%;
 		font-size: 0.9rem;
 	}
+
+  .br-sp {display: none; /*-- add "<br>" inside of text for only over 768px size --*/
+  }
 }
 
 @media screen and (min-width: 992px) {
