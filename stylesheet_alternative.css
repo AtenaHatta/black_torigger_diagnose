@@ -15,7 +15,7 @@ a {
 
 body {
     font-weight: bold;
-    font-size: 1rem;
+    font-size: 1.3rem;
     background-color: #156C8F;
     width: 100%;
     max-width: initial;
@@ -91,6 +91,10 @@ body
   font-size: 0.7em;
 }
 
+.doraemontool{
+  font-size: 1em;
+}
+
 /*-------------------------------------------
 Responsive
 -------------------------------------------*/
@@ -120,23 +124,27 @@ Responsive
     }
   
     .result-title{
-      font-size: 1.2em;
+      font-size: 1.2rem;
       display: inline-block;
       padding: 0%;
     }
     
     .phrase{
-      font-size: 0.9em;
+      font-size: 0.8rem;
       padding: 0%;
       margin:  0%;
     }
     
     .result-comment{
-      font-size: 0.8em;
+      font-size: 0.8rem;
     }
 
     .resultbox{
-      width: 80%;
+      width: 90%;
+    }
+
+    .doraemontool{
+      font-size: 0.7em;
     }
     }
 
@@ -167,19 +175,26 @@ Responsive
   }
 
   .result-title{
-    font-size: 1.3em;
+    font-size: 1.3rem;
     display: inline-block;
     padding: 0%;
   }
   
   .phrase{
-    font-size: 1em;
+    font-size: 1rem;
     padding: 0%;
     margin:  0%;
   }
   
   .result-comment{
-    font-size: 0.9em;
+    font-size: 0.9rem;
+  }
+  
+  .doraemontool{
+    font-size: 0.8em;
+  }
+
+  .br-sp {display: none; /*-- add "<br>" inside of text for only over 768px size --*/
   }
   }
 
@@ -210,19 +225,23 @@ Responsive
   }
 
   .result-title{
-    font-size: 1em;
+    font-size: 1rem;
     display: inline-block;
     padding: 0%;
   }
   
   .phrase{
-    font-size: 0.8em;
+    font-size: 0.8rem;
     padding: 0%;
     margin:  0%;
   }
   
   .result-comment{
-    font-size: 0.7em;
+    font-size: 0.7rem;
+  }
+  
+  .doraemontool{
+    font-size: 0.9em;
   }
   }
    
@@ -233,7 +252,7 @@ Responsive
     }
 
   .explain{
-    font-size: 1.2em;
+    font-size: 1.2rem;
     margin-bottom: 0;
   }
       
@@ -258,19 +277,19 @@ Responsive
   }
 
   .result-title{
-    font-size: 1.9em;
+    font-size: 1.9rem;
     display: inline-block;
     padding: 0%;
   }
 
   .phrase{
-    font-size: 1.4em;
+    font-size: 1.4rem;
     padding: 0%;
     margin:  0%;
   }
   
   .result-comment{
-    font-size: 1.3em;
+    font-size: 1.3rem;
   }
 
   .resultbox{
