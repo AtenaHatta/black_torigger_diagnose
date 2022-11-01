@@ -6,5 +6,5 @@ Please feel free to try if you are interested, thank you.<br>
 
 ワールドトリガーの診断テストを作成しました<br>
 ワールドトリガーが好きすぎる妹監修です<br>
-興味のある方はぜひチャレンジしてみてください↓<br>
+ぜひチャレンジしてみてください↓<br>
 https://blacktorrigerdiagnose.netlify.app/
