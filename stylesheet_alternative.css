@@ -149,8 +149,9 @@ Responsive
 
     .detail{
       font-size: 0.8rem;
+      display: inline-block;
     }
-    }
+  }
 
 @media screen and (min-width: 768px) {
   .body{
@@ -200,11 +201,13 @@ Responsive
   
   .detail{
     font-size: 0.8em;
+    display: inline-block;
   }
 
-  .br-sp {display: none; /*-- add "<br>" inside of text for only over 768px size --*/
+  .br-sp {
+    display: none; /*-- add "<br>" inside of text for only over 768px size --*/
   }
-  }
+}
 
 @media screen and (min-width: 992px) {
   .body{
@@ -254,8 +257,9 @@ Responsive
   
   .detail{
     font-size: 0.9em;
+    display: inline-block;
   }
-  }
+}
    
   @media screen and (min-width:1024px) {
     .choices {
@@ -307,6 +311,8 @@ Responsive
   .resultbox{
     width: 60%;
   }
-  }
 
-
+.detail{
+  display: inline-block;
+}
+}
