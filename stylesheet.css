@@ -52,6 +52,9 @@ header - top-container
   color: black;
 }
 
+.top_yuma{
+	width: 17%;
+}
 /*-------------------------------------------
  an Explanation box of this diagnose
 -------------------------------------------*/
@@ -284,5 +287,4 @@ Responsive
 			font-size: 1.3rem;
 		} 
   }
-
-
+}
