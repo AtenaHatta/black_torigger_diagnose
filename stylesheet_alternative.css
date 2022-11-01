@@ -69,36 +69,40 @@ body
   margin:auto;
   border-color: #31A9EE;
   background: black;
-  border: 0.8em ridge #31A9EE;
-  font-size: 0.9em;
+  border: 0.8rem ridge #31A9EE;
+  font-size: 0.9rem;
   box-shadow: 0 10px 25px 0 rgba(3, 3, 3, 0.795);
   background-image: url(Image/bg_cube.png);
 }
 
 .result-title{
-  font-size: 1.3em;
+  font-size: 1.3rem;
   display: inline-block;
   padding: 0%;
 }
 
 .phrase{
-  font-size: 0.8em;
+  font-size: 0.8rem;
   padding: 0%;
   margin:  0%;
 }
 
 .result-comment{
-  font-size: 0.7em;
+  font-size: 0.7rem;
 }
 
 .doraemontool{
-  font-size: 1em;
+  font-size: 1rem;
 }
 
 /*-------------------------------------------
 Responsive
 -------------------------------------------*/
 @media screen and (max-width:639px) {
+  .body{
+    font-size: 0.5rem;
+  }
+
   .choices li{
     width: 50%;
     }
@@ -108,7 +112,7 @@ Responsive
     }
 
     .images1{
-      width:50%;
+      width:65%;
     }
   
     .images2{
@@ -144,11 +148,15 @@ Responsive
     }
 
     .doraemontool{
-      font-size: 0.7em;
+      font-size: 0.8rem;
     }
     }
 
 @media screen and (min-width: 768px) {
+  .body{
+    font-size: 1rem;
+  }
+
   .choices li{
     width: 70%;
     flex-wrap: nowrap; 
@@ -199,6 +207,10 @@ Responsive
   }
 
 @media screen and (min-width: 992px) {
+  .body{
+    font-size: 1.1rem;
+  }
+
   .choices li{
     width: 70%;
     flex-wrap: nowrap; 
