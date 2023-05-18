@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/AtenaHatta/Keep">
-    <img src="https://keep-five.vercel.app/" alt="Logo" width="80" height="80">
+    <img src="img_screenshot_blacktriggerdiagnose.png" alt="Logo">
   </a>
 
   <h3 align="center">Keep</h3>
@@ -33,8 +33,7 @@
 * [Acknowledgements](#acknowledgements)
 
 ## About The Project
-
-![Screen Shot](https://blacktriggerdiagnose.netlify.app)
+<img src="img_title_blacktriggerdiagnose.png">
 
 Which Black Trigger suits you best in World Trigger? Find out your perfect match by answering this diagnostic test!
 
