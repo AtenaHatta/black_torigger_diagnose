@@ -1,25 +1,25 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/AtenaHatta/Keep">
-    <img src="img_screenshot_blacktriggerdiagnose.png" alt="Logo">
+  <a href="https://github.com/AtenaHatta/">
+    <img src="https://blacktriggerdiagnose.netlify.app/" alt="Logo" width="80" height="80">
   </a>
 
   <p align="center">
-    Once you sign up, you can utilize this note app at any time! The app serves as a reminder, allowing you to effortlessly edit or delete your notes as frequently as desired.
+    Which Black Trigger suits you best in World Trigger? Find out your perfect match by answering this diagnostic test!
     <br/>
     <br/>
-    <a href="https://github.com/AtenaHatta/Keep"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AtenaHatta/"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/AtenaHatta/Keep">View Demo</a>
+    <a href="https://github.com/AtenaHatta/">View Demo</a>
     .
-    <a href="https://github.com/AtenaHatta/Keep/issues">Report Bug</a>
+    <a href="https://github.com/AtenaHatta//issues">Report Bug</a>
     .
-    <a href="https://github.com/AtenaHatta/Keep/issues">Request Feature</a>
+    <a href="https://github.com/AtenaHatta//issues">Request Feature</a>
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/AtenaHatta/Keep/total) ![Contributors](https://img.shields.io/github/contributors/AtenaHatta/Keep?color=dark-green) ![Issues](https://img.shields.io/github/issues/AtenaHatta/Keep) ![License](https://img.shields.io/github/license/AtenaHatta/Keep) 
+![Downloads](https://img.shields.io/github/downloads/AtenaHatta//total) ![Contributors](https://img.shields.io/github/contributors/AtenaHatta/?color=dark-green) ![Issues](https://img.shields.io/github/issues/AtenaHatta/) ![License](https://img.shields.io/github/license/AtenaHatta/) 
 
 ## Table Of Contents
 
@@ -28,19 +28,21 @@
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
 
 ## About The Project
-<img src="img_title_blacktriggerdiagnose.png">
 
-Which Black Trigger suits you best in World Trigger? Find out your perfect match by answering this diagnostic test!
+![Screen Shot](https://blacktriggerdiagnose.netlify.app)
+
+\
 
 ## Built With
 
-* [jQuery]()
+
+
 * [JavaScript]()
 * [HTML5]()
 * [CSS3]()
+* [jQuery]()
 
 ## Usage
 
@@ -49,10 +51,10 @@ Please start by selecting your preferred language. Once you've chosen your langu
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/AtenaHatta/Keep/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/AtenaHatta//issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/AtenaHatta/Keep/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+* Please also read through the [Code Of Conduct](https://github.com/AtenaHatta//blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
 
 ### Creating A Pull Request
 
