@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/AtenaHatta/">
-    <img src="https://blacktriggerdiagnose.netlify.app/" alt="Logo" width="80" height="80">
+    <img src="img_screenshot_blacktriggerdiagnose.png" alt="Logo" width="80" height="80">
   </a>
 
   <p align="center">
@@ -11,7 +11,7 @@
     <a href="https://github.com/AtenaHatta/"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/AtenaHatta/">View Demo</a>
+    <a href="https://blacktriggerdiagnose.netlify.app/">View Demo</a>
     .
     <a href="https://github.com/AtenaHatta//issues">Report Bug</a>
     .
@@ -19,7 +19,6 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/AtenaHatta//total) ![Contributors](https://img.shields.io/github/contributors/AtenaHatta/?color=dark-green) ![Issues](https://img.shields.io/github/issues/AtenaHatta/) ![License](https://img.shields.io/github/license/AtenaHatta/) 
 
 ## Table Of Contents
 
@@ -31,9 +30,7 @@
 
 ## About The Project
 
-![Screen Shot](https://blacktriggerdiagnose.netlify.app)
-
-\
+<img src="img_title_blacktriggerdiagnose.png">
 
 ## Built With
 
