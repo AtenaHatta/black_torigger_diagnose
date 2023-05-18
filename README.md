@@ -39,8 +39,7 @@ Which Black Trigger suits you best in World Trigger? Find out your perfect match
 
 ## Built With
 
-jQuery
-
+* [jQuery]()
 * [JavaScript]()
 * [HTML5]()
 * [CSS3]()
