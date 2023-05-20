@@ -8,10 +8,9 @@
     Which Black Trigger suits you best in World Trigger? Find out your perfect match by answering this diagnostic test!
     <br/>
     <br/>
-    <a href="https://github.com/AtenaHatta/"><strong>Explore the docs »</strong></a>
+    <a href="https://blacktriggerdiagnose.netlify.app/"><strong>View Demos »</strong></a>
     <br/>
     <br/>
-    <a href="https://blacktriggerdiagnose.netlify.app/">View Demo</a>
     .
     <a href="https://github.com/AtenaHatta//issues">Report Bug</a>
     .
