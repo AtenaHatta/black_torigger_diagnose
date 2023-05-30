@@ -12,9 +12,9 @@
     <br/>
     <br/>
     .
-    <a href="https://github.com/AtenaHatta//issues">Report Bug</a>
+    <a href="https://github.com/AtenaHatta/black_trigger_diagnose/issues">Report Bug</a>
     .
-    <a href="https://github.com/AtenaHatta//issues">Request Feature</a>
+    <a href="https://github.com/AtenaHatta/black_trigger_diagnose/issues">Request Feature</a>
   </p>
 </p>
 
