@@ -19,14 +19,6 @@
 </p>
 
 
-## Table Of Contents
-
-* [About the Project](#about-the-project)
-* [Built With](#built-with)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [Authors](#authors)
-
 ## About The Project
 
 <img src="img_title_blacktriggerdiagnose.png">
@@ -44,23 +36,23 @@
 
 Please start by selecting your preferred language. Once you've chosen your language, click on "What is the Black Trigger Compatibility Test?" to read the description. Then, click on the "Start Diagnosis" button and answer the questions. Finally, we will diagnose and determine which Black Trigger suits you best based on your responses.
 
-## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/AtenaHatta//issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
-* Please make sure you check your spelling and grammar.
-* Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/AtenaHatta//blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+# Getting Started
 
-### Creating A Pull Request
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+### Installation
 
-## Authors
+1. Clone the repository</br>
+git clone https://github.com/AtenaHatta/black_trigger_diagnose.git
 
-* **Atena Hatta** - ** - [Atena Hatta](https://github.com/AtenaHatta) - **
+2. Navigate to the project directory</br>
+cd black_trigger_diagnose
+
+
+## Roadmap
+
+See the [open issues](https://github.com/AtenaHatta/black_trigger_diagnose/issues) for a list of proposed features (and known issues).
+
 
